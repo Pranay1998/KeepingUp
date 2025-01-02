@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Keeping Up</string>
+    <string name="back_button">Back</string>
+    <string name="home">Home</string>
+    <string name="scramble">Scramble</string>
+    <string name="notification">Notification</string>
+    <string name="video_player">Video Player</string>
+    <string name="music_player">Music Player</string>
+    <string name="simple_notification">Simple Notification</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="channel_name">KeepingUp Name</string>
+    <string name="channel_description">KeepingUp Description</string>
+    <string name="alarm">Alarm!!</string>
+    <string name="alarm_notification">This is an alarm notification</string>
+</resources>
